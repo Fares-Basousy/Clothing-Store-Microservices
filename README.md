@@ -30,11 +30,11 @@ To run the project locally, follow these steps:
  ```bash
     npm install
  ```
-    or you can run:
+   or you can run:
    
-    ```
+   
     npm install express cors body-parser
-    ```
+   
     
 ## Usage
 
@@ -47,9 +47,9 @@ To run the project locally, follow these steps:
 
 	2. Start the Microservice 2 (Storage):
 	
-	```
-	node ms2.js
-    ```
+	    ```
+	    node ms2.js
+    	    ```
 
 2. Open the website in your browser:
 
