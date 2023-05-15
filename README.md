@@ -17,24 +17,22 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   	git clonehttps://github.com/Fares-Basousy/Clothing-Store-Microservices.git```
+   git clonehttps://github.com/Fares-Basousy/Clothing-Store-Microservices.git```
 
 2. Navigate to the project directory
     ```bash
-    	cd clothing-store-microservice
-```
+    cd clothing-store-microservice
+
 3. Install dependencies for both microservices
 
     to install from the packages.json file run:
 
- ```bash
-    	npm install
- ```
+ 	```bash
+ 	npm install
+ 	```
    or you can run:
-   
-   
-    	npm install express cors body-parser
-   
+   	```bash
+	npm install express cors body-parser
     
 ## Usage
 
@@ -46,10 +44,9 @@ To run the project locally, follow these steps:
 	    ```
 
 	2. Start the Microservice 2 (Storage):
-	
 	    ```
 	    node ms2.js
-    	    ```
+	    ```
 
 2. Open the website in your browser:
 
