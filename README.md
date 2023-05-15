@@ -66,9 +66,9 @@ The project dependencies are listed in the package.json file. To install them, m
 
 The main dependencies used in this project include:
 
-   Express: Web framework for handling HTTP requests
-   Cors: Middleware for enabling Cross-Origin Resource Sharing
-   Body-parser: Middleware for parsing HTTP request bodies
+   Express: Web framework for handling HTTP requests.
+   Cors: Middleware for enabling Cross-Origin Resource Sharing.
+   Body-parser: Middleware for parsing HTTP request bodies.
 
 ## Note
 
