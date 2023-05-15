@@ -19,10 +19,10 @@ app1.use(Cors());
 
 
 
-// Setup microservice management
+//Setup microservice management
 const port = 8000;
 const server = app1.listen(port,()=>{console.log(`running on local http://localhost:${port}/`)})
-// post request route for the storage to manage the order (client side code for ms2)
+//post request route for the storage to manage the order (client side code for ms2)
  const manageOrder = async (url, order) => {
     const res = await fetch(ms2 + url, {
     method: 'POST', 
