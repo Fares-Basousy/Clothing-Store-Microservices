@@ -66,8 +66,10 @@ The project dependencies are listed in the package.json file. To install them, m
 
 The main dependencies used in this project include:
 
-    Express: Web framework for handling HTTP requests
-    Cors: Middleware for enabling Cross-Origin Resource Sharing
-    Body-parser: Middleware for parsing HTTP request bodies
+   Express: Web framework for handling HTTP requests
+   Cors: Middleware for enabling Cross-Origin Resource Sharing
+   Body-parser: Middleware for parsing HTTP request bodies
+
 ## Note
-	i took the frontend from https://www.free-css.com/free-css-templates/page287/eflyer
+
+i took the frontend from https://www.free-css.com/free-css-templates/page287/eflyer
