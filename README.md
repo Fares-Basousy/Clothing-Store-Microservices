@@ -17,23 +17,23 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clonehttps://github.com/Fares-Basousy/Clothing-Store-Microservices.git```
+   	git clonehttps://github.com/Fares-Basousy/Clothing-Store-Microservices.git```
 
 2. Navigate to the project directory
     ```bash
-    cd clothing-store-microservice
-
+    	cd clothing-store-microservice
+```
 3. Install dependencies for both microservices
 
     to install from the packages.json file run:
 
  ```bash
-    npm install
+    	npm install
  ```
    or you can run:
    
    
-    npm install express cors body-parser
+    	npm install express cors body-parser
    
     
 ## Usage
